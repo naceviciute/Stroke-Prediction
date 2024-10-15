@@ -57,7 +57,7 @@ In this section, statistical modeling is performed by:
 
 The final model was deployed, and a user-friendly interface was built using Streamlit to allow healthcare professionals and users to input patient data and receive real-time predictions.
 
-This app can be accessed via the following link: [Stroke Prediction App] (https://stroke-b5jk6u8tb2cpljafikfwbd.streamlit.app/)
+This app can be accessed via the following link: https://stroke-b5jk6u8tb2cpljafikfwbd.streamlit.app/
 
 
 ## License
